@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js
+node_modules/
+frontend/build/
+
+# IDE
+.idea/
+
+# Environment variables
+.env
+
+# Temporary files
+*.log
+
+# Reports and temporary Word files
+*.docx
+~$*
